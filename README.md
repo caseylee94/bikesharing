@@ -11,3 +11,5 @@ The purpose of this project is to analyze CitiBike data gathered from NYC to det
 * Microsoft Excel
 
 ## Analysis
+
+The data set provided 
