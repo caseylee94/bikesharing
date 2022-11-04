@@ -14,4 +14,5 @@ The purpose of this project is to analyze CitiBike data gathered from NYC to det
 
 ## Analysis
 
-The data set analyzed in this project was taken from the month of August of use of Citi Bikes across NYC. It included age demographics, gender, trip duration, starting and ending location, customer vs subscriber, and various other metrics. 
+The data set analyzed in this project was taken from the month of August of use of Citi Bikes across NYC. It included age demographics, gender, trip duration, starting and ending location, customer vs subscriber, and various other metrics. The first analysis conducted was a general analysis of some of the basics of the data, as shown below:
+ ![retirement_titles.png](/Resources/retirement_titles.png)
