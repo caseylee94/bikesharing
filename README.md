@@ -42,3 +42,8 @@ The final visualization in this analysis is shown below:
 ![trips_by_hour_gender.png](/Images/trips_by_hour_gender.png)
 *Heat map comparing weekdays by each hour split into each genders usage. Note: the unknown gender sample population is left unchecked here because the sample size is small and reflects the same usage hours as the male and female data.*
 
+This final heat map shows a combination of the previous panel. Interesting to note that Wednesday seems to be the day that the bikes are used the least. Again this final visualization shows that males use the bikes the most, the peak hours are the typical commute hours and midday on the weekends.
+
+## Summary
+
+In conclusion, the Citi Bike program in NYC is doing well because there are a lot of commuters who subcribe to the program and regularly use the bikes to travel around the city. Manhattan is compact enough to encourage this and there are many Citi Bike stations and bikes established. To be able to understand how this can relate to Des Moines, there needs to be an analysis of the city of Des Moines, the commuter population, the tourism stream, the gender distribution, and the layout of the city. NYC is unique in regards to other American cities in that is so compact; in a larger, more spread out city a Citi Bike program might not be as appealing to residents. NYC is also notoriously difficult to drive in and find parking; this should not be underestimated in its impact on the Citi Bike program for commuters. Also an important consideration is the presence of bike lanes. Without a developed bike lane system it could be too dangerous 
