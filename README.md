@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The purpose of this project is to analyze CitiBike data gathered from NYC to determine the demographics and typical uses of CitiBikes. This will help determine if a CitiBike program will do well and be economically feasible for Des Moines, Idaho. Tablesu Public was used to build the graphics into a story, which is linked below:
+The purpose of this project is to determine if a CitiBike program is economically feasible for Des Moines, Idaho by analyzing CitiBike data gathered from NYC. Certain features such as the demographics, typical uses, and time of uses of CitiBikes were analyzed.  Tableau Public was used to build the graphics into a story, which is linked below:
 
 [link to dashboard](https://public.tableau.com/app/profile/casey.lee2755/viz/Bike_Modules/CitiBikeFinalAnalysis?publish=yes)
 
